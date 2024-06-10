@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+background-image: url(img/fondo.jpg) ;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.minecraft{
+    width: 20px;
+    margin-left: 39%;
+    image-resolution: 20%;
+}
+.boton{
+    color: darkgreen;
+}
