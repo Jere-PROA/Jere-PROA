@@ -17,4 +17,11 @@ h3{
 }
 .fotos{
     width: 20px;
+    margin: 2%;
+    border-radius: 12px;
+}
+.inicio{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 4%;
 }
